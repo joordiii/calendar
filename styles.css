@@ -2,6 +2,7 @@ div.mes {
     margin: 0 auto;
     width: 250px;
     position: relative;
+    color: red;
   }
   
   div.mes:nth-child(odd) {
